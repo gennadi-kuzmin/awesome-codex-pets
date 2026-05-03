@@ -2,6 +2,26 @@
 
 Calm code-review owl with tiny glasses and a miniature PR checklist.
 
+![Review Owl idle animation](preview/idle.gif)
+
+## Animation Catalog
+
+| Idle | Running | Waiting | Review |
+| --- | --- | --- | --- |
+| <img src="preview/idle.gif" alt="Review Owl idle animation" width="112"> | <img src="preview/running.gif" alt="Review Owl running animation" width="112"> | <img src="preview/waiting.gif" alt="Review Owl waiting animation" width="112"> | <img src="preview/review.gif" alt="Review Owl review animation" width="112"> |
+
+The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The GIFs are only human-friendly previews for GitHub.
+
+## Install
+
+Copy this folder to:
+
+```text
+~/.codex/pets/review-owl/
+```
+
+Then open Codex App, go to `Settings > Appearance > Pets`, refresh custom pets, select `Review Owl`, and type `/pet`.
+
 ## Brief
 
 Review Owl is a thoughtful developer pet for review states, pull requests, and quiet competence.

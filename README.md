@@ -4,7 +4,7 @@ A curated hub and installable pet pack for custom Codex `/pet` companions.
 
 Install original Codex pets, inspect the pet contract, and suggest the next tiny agent companion.
 
-> First pet ready: **Terminal Ghost**, a friendly CLI companion for your Codex app.
+> Three pets ready: **Terminal Ghost**, **Review Owl**, and **Bug Hunter**.
 
 [![Terminal Ghost idle animation](pets/terminal-ghost/preview/idle.gif)](pets/terminal-ghost)
 
@@ -32,8 +32,8 @@ Codex pets are delightful, but the ecosystem is still young. This repo is a fast
 | Pet | Preview | Install | Status |
 | --- | --- | --- | --- |
 | [Terminal Ghost](pets/terminal-ghost) | [<img src="pets/terminal-ghost/preview/idle.gif" alt="Terminal Ghost idle animation" width="96">](pets/terminal-ghost) | [`cp -R pets/terminal-ghost ~/.codex/pets/`](pets/terminal-ghost) | Installable |
-| [Review Owl](pets/review-owl) | Coming next | Coming soon | Brief ready |
-| [Bug Hunter](pets/bug-hunter) | Coming next | Coming soon | Brief ready |
+| [Review Owl](pets/review-owl) | [<img src="pets/review-owl/preview/idle.gif" alt="Review Owl idle animation" width="96">](pets/review-owl) | [`cp -R pets/review-owl ~/.codex/pets/`](pets/review-owl) | Installable |
+| [Bug Hunter](pets/bug-hunter) | [<img src="pets/bug-hunter/preview/idle.gif" alt="Bug Hunter idle animation" width="96">](pets/bug-hunter) | [`cp -R pets/bug-hunter ~/.codex/pets/`](pets/bug-hunter) | Installable |
 
 Click a pet preview to open its folder, animation catalog, and install notes.
 
