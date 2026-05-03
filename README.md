@@ -6,7 +6,7 @@ Install original Codex pets, inspect the pet contract, and suggest the next tiny
 
 > First pet ready: **Terminal Ghost**, a friendly CLI companion for your Codex app.
 
-![Terminal Ghost contact sheet](pets/terminal-ghost/preview/contact-sheet.png)
+[![Terminal Ghost idle animation](pets/terminal-ghost/preview/idle.gif)](pets/terminal-ghost)
 
 ## Quick Install
 
@@ -29,11 +29,13 @@ Codex pets are delightful, but the ecosystem is still young. This repo is a fast
 
 ## Pets
 
-| Pet | Vibe | Files | Status |
+| Pet | Preview | Install | Status |
 | --- | --- | --- | --- |
-| Terminal Ghost | Friendly CLI companion | [`pets/terminal-ghost`](pets/terminal-ghost) | Installable |
-| Review Owl | Calm code reviewer | [`pets/review-owl`](pets/review-owl) | Brief ready |
-| Bug Hunter | Debugging detective | [`pets/bug-hunter`](pets/bug-hunter) | Brief ready |
+| [Terminal Ghost](pets/terminal-ghost) | [<img src="pets/terminal-ghost/preview/idle.gif" alt="Terminal Ghost idle animation" width="96">](pets/terminal-ghost) | [`cp -R pets/terminal-ghost ~/.codex/pets/`](pets/terminal-ghost) | Installable |
+| [Review Owl](pets/review-owl) | Coming next | Coming soon | Brief ready |
+| [Bug Hunter](pets/bug-hunter) | Coming next | Coming soon | Brief ready |
+
+Click a pet preview to open its folder, animation catalog, and install notes.
 
 ## Install
 

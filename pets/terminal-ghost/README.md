@@ -2,7 +2,15 @@
 
 Friendly tiny CLI ghost for developers.
 
-![Terminal Ghost contact sheet](preview/contact-sheet.png)
+![Terminal Ghost idle animation](preview/idle.gif)
+
+## Animation Catalog
+
+| Idle | Running | Waiting | Review |
+| --- | --- | --- | --- |
+| <img src="preview/idle.gif" alt="Terminal Ghost idle animation" width="112"> | <img src="preview/running.gif" alt="Terminal Ghost running animation" width="112"> | <img src="preview/waiting.gif" alt="Terminal Ghost waiting animation" width="112"> | <img src="preview/review.gif" alt="Terminal Ghost review animation" width="112"> |
+
+The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The GIFs are only human-friendly previews for GitHub.
 
 ## Install
 
