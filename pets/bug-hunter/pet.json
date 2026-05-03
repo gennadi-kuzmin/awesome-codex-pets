@@ -1,0 +1,6 @@
+{
+  "id": "bug-hunter",
+  "displayName": "Bug Hunter",
+  "description": "A tiny debugging detective for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}

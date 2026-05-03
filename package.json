@@ -1,0 +1,9 @@
+{
+  "name": "awesome-codex-pets",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-pets.mjs"
+  }
+}

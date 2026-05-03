@@ -1,0 +1,6 @@
+{
+  "id": "review-owl",
+  "displayName": "Review Owl",
+  "description": "A calm code-review owl for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}

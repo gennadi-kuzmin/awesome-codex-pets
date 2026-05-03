@@ -1,0 +1,6 @@
+{
+  "id": "terminal-ghost",
+  "displayName": "Terminal Ghost",
+  "description": "A friendly tiny CLI ghost for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}
