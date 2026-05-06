@@ -1,0 +1,6 @@
+{
+  "id": "bug-searcher",
+  "displayName": "Bug Searcher",
+  "description": "A cute debugging cockroach detective that searches for bugs with a magnifying glass.",
+  "spritesheetPath": "spritesheet.webp"
+}
