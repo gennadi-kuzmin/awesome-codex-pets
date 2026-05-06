@@ -6,9 +6,17 @@ Friendly tiny CLI ghost for developers.
 
 ## Animation Catalog
 
-| Idle | Running | Waiting | Review |
-| --- | --- | --- | --- |
-| <img src="preview/idle.gif" alt="Terminal Ghost idle animation" width="112"> | <img src="preview/running.gif" alt="Terminal Ghost running animation" width="112"> | <img src="preview/waiting.gif" alt="Terminal Ghost waiting animation" width="112"> | <img src="preview/review.gif" alt="Terminal Ghost review animation" width="112"> |
+| Idle | Running Right | Running Left |
+| --- | --- | --- |
+| <img src="preview/idle.gif" alt="Terminal Ghost idle animation" width="112"> | <img src="preview/running-right.gif" alt="Terminal Ghost running right animation" width="112"> | <img src="preview/running-left.gif" alt="Terminal Ghost running left animation" width="112"> |
+
+| Waving | Jumping | Failed |
+| --- | --- | --- |
+| <img src="preview/waving.gif" alt="Terminal Ghost waving animation" width="112"> | <img src="preview/jumping.gif" alt="Terminal Ghost jumping animation" width="112"> | <img src="preview/failed.gif" alt="Terminal Ghost failed animation" width="112"> |
+
+| Waiting | Running | Review |
+| --- | --- | --- |
+| <img src="preview/waiting.gif" alt="Terminal Ghost waiting animation" width="112"> | <img src="preview/running.gif" alt="Terminal Ghost running animation" width="112"> | <img src="preview/review.gif" alt="Terminal Ghost review animation" width="112"> |
 
 The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The GIFs are only human-friendly previews for GitHub.
 
