@@ -4,7 +4,7 @@ A curated hub and installable pet pack for custom Codex `/pet` companions.
 
 Install original Codex pets, inspect the pet contract, and suggest the next tiny agent companion.
 
-> Six pets ready: **Terminal Ghost**, **Review Owl**, **Bug Hunter**, **Bug Searcher**, **Rubber Duck 2.0**, and **Token Vampire**.
+> Seven pets ready: **Terminal Ghost**, **Review Owl**, **Bug Hunter**, **Bug Searcher**, **Rubber Duck 2.0**, **Token Vampire**, and **Ladybug Dev**.
 
 [![Terminal Ghost idle animation](pets/terminal-ghost/preview/idle.gif)](pets/terminal-ghost)
 
@@ -37,6 +37,7 @@ Codex pets are delightful, but the ecosystem is still young. This repo is a fast
 | [Bug Searcher](pets/bug-searcher) | [<img src="pets/bug-searcher/preview/idle.gif" alt="Bug Searcher idle animation" width="96">](pets/bug-searcher) | [`cp -R pets/bug-searcher ~/.codex/pets/`](pets/bug-searcher) | Installable |
 | [Rubber Duck 2.0](pets/rubber-duck-2-0) | [<img src="pets/rubber-duck-2-0/preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="96">](pets/rubber-duck-2-0) | [`cp -R pets/rubber-duck-2-0 ~/.codex/pets/`](pets/rubber-duck-2-0) | Installable |
 | [Token Vampire](pets/token-vampire) | [<img src="pets/token-vampire/preview/idle.gif" alt="Token Vampire idle animation" width="96">](pets/token-vampire) | [`cp -R pets/token-vampire ~/.codex/pets/`](pets/token-vampire) | Installable |
+| [Ladybug Dev](pets/ladybug-dev) | [<img src="pets/ladybug-dev/preview/idle.gif" alt="Ladybug Dev idle animation" width="96">](pets/ladybug-dev) | [`cp -R pets/ladybug-dev ~/.codex/pets/`](pets/ladybug-dev) | Installable |
 
 Click a pet preview to open its folder, animation catalog, and install notes.
 
