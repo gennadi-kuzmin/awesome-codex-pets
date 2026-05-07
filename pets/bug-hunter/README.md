@@ -2,15 +2,15 @@
 
 Tiny debugging detective with a magnifying glass and breakpoint marker.
 
-![Bug Hunter idle animation](preview/idle.gif)
+![Bug Hunter idle animation](preview/idle.webp)
 
 ## Animation Catalog
 
 | Idle | Running | Waiting | Review |
 | --- | --- | --- | --- |
-| <img src="preview/idle.gif" alt="Bug Hunter idle animation" width="112"> | <img src="preview/running.gif" alt="Bug Hunter running animation" width="112"> | <img src="preview/waiting.gif" alt="Bug Hunter waiting animation" width="112"> | <img src="preview/review.gif" alt="Bug Hunter review animation" width="112"> |
+| <img src="preview/idle.webp" alt="Bug Hunter idle animation" width="112"> | <img src="preview/running.webp" alt="Bug Hunter running animation" width="112"> | <img src="preview/waiting.webp" alt="Bug Hunter waiting animation" width="112"> | <img src="preview/review.webp" alt="Bug Hunter review animation" width="112"> |
 
-The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The GIFs are only human-friendly previews for GitHub.
+The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The WebP files are human-friendly previews for GitHub.
 
 ## Install
 

@@ -8,15 +8,15 @@ Pick a pet, copy one folder into `~/.codex/pets`, refresh Codex, and let a tiny 
 
 <table>
   <tr>
-    <td align="center"><a href="pets/terminal-ghost"><img src="pets/terminal-ghost/preview/idle.gif" alt="Terminal Ghost idle animation" width="112"><br><strong>Terminal Ghost</strong></a></td>
-    <td align="center"><a href="pets/review-owl"><img src="pets/review-owl/preview/idle.gif" alt="Review Owl idle animation" width="112"><br><strong>Review Owl</strong></a></td>
-    <td align="center"><a href="pets/bug-hunter"><img src="pets/bug-hunter/preview/idle.gif" alt="Bug Hunter idle animation" width="112"><br><strong>Bug Hunter</strong></a></td>
-    <td align="center"><a href="pets/bug-searcher"><img src="pets/bug-searcher/preview/idle.gif" alt="Bug Searcher idle animation" width="112"><br><strong>Bug Searcher</strong></a></td>
+    <td align="center"><a href="pets/terminal-ghost"><img src="pets/terminal-ghost/preview/idle.webp" alt="Terminal Ghost idle animation" width="112"><br><strong>Terminal Ghost</strong></a></td>
+    <td align="center"><a href="pets/review-owl"><img src="pets/review-owl/preview/idle.webp" alt="Review Owl idle animation" width="112"><br><strong>Review Owl</strong></a></td>
+    <td align="center"><a href="pets/bug-hunter"><img src="pets/bug-hunter/preview/idle.webp" alt="Bug Hunter idle animation" width="112"><br><strong>Bug Hunter</strong></a></td>
+    <td align="center"><a href="pets/bug-searcher"><img src="pets/bug-searcher/preview/idle.webp" alt="Bug Searcher idle animation" width="112"><br><strong>Bug Searcher</strong></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="pets/rubber-duck-2-0"><img src="pets/rubber-duck-2-0/preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="112"><br><strong>Rubber Duck 2.0</strong></a></td>
-    <td align="center"><a href="pets/token-vampire"><img src="pets/token-vampire/preview/idle.gif" alt="Token Vampire idle animation" width="112"><br><strong>Token Vampire</strong></a></td>
-    <td align="center"><a href="pets/ladybug-dev"><img src="pets/ladybug-dev/preview/idle.gif" alt="Ladybug Dev idle animation" width="112"><br><strong>Ladybug Dev</strong></a></td>
+    <td align="center"><a href="pets/rubber-duck-2-0"><img src="pets/rubber-duck-2-0/preview/idle.webp" alt="Rubber Duck 2.0 idle animation" width="112"><br><strong>Rubber Duck 2.0</strong></a></td>
+    <td align="center"><a href="pets/token-vampire"><img src="pets/token-vampire/preview/idle.webp" alt="Token Vampire idle animation" width="112"><br><strong>Token Vampire</strong></a></td>
+    <td align="center"><a href="pets/ladybug-dev"><img src="pets/ladybug-dev/preview/idle.webp" alt="Ladybug Dev idle animation" width="112"><br><strong>Ladybug Dev</strong></a></td>
     <td align="center"><a href="docs/submit-your-pet.md"><br><strong>Suggest the next pet</strong></a></td>
   </tr>
 </table>
@@ -51,13 +51,13 @@ See [`docs/install.md`](docs/install.md) for the full install guide.
 
 | Pet | Vibe | Preview | Install folder |
 | --- | --- | --- | --- |
-| [Terminal Ghost](pets/terminal-ghost) | Friendly CLI mascot with prompt-shaped eyes. | [<img src="pets/terminal-ghost/preview/idle.gif" alt="Terminal Ghost idle animation" width="96">](pets/terminal-ghost) | `pets/terminal-ghost` |
-| [Review Owl](pets/review-owl) | Calm reviewer for PRs and code review mode. | [<img src="pets/review-owl/preview/idle.gif" alt="Review Owl idle animation" width="96">](pets/review-owl) | `pets/review-owl` |
-| [Bug Hunter](pets/bug-hunter) | Tiny debugging detective. | [<img src="pets/bug-hunter/preview/idle.gif" alt="Bug Hunter idle animation" width="96">](pets/bug-hunter) | `pets/bug-hunter` |
-| [Bug Searcher](pets/bug-searcher) | Cute bug-finding detective with a magnifying glass. | [<img src="pets/bug-searcher/preview/idle.gif" alt="Bug Searcher idle animation" width="96">](pets/bug-searcher) | `pets/bug-searcher` |
-| [Rubber Duck 2.0](pets/rubber-duck-2-0) | Debugging duck upgraded into an AI coding buddy. | [<img src="pets/rubber-duck-2-0/preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="96">](pets/rubber-duck-2-0) | `pets/rubber-duck-2-0` |
-| [Token Vampire](pets/token-vampire) | Smug little bat drinking coding limits like token juice. | [<img src="pets/token-vampire/preview/idle.gif" alt="Token Vampire idle animation" width="96">](pets/token-vampire) | `pets/token-vampire` |
-| [Ladybug Dev](pets/ladybug-dev) | Tiny coding ladybug with terminal-marked spots. | [<img src="pets/ladybug-dev/preview/idle.gif" alt="Ladybug Dev idle animation" width="96">](pets/ladybug-dev) | `pets/ladybug-dev` |
+| [Terminal Ghost](pets/terminal-ghost) | Friendly CLI mascot with prompt-shaped eyes. | [<img src="pets/terminal-ghost/preview/idle.webp" alt="Terminal Ghost idle animation" width="96">](pets/terminal-ghost) | `pets/terminal-ghost` |
+| [Review Owl](pets/review-owl) | Calm reviewer for PRs and code review mode. | [<img src="pets/review-owl/preview/idle.webp" alt="Review Owl idle animation" width="96">](pets/review-owl) | `pets/review-owl` |
+| [Bug Hunter](pets/bug-hunter) | Tiny debugging detective. | [<img src="pets/bug-hunter/preview/idle.webp" alt="Bug Hunter idle animation" width="96">](pets/bug-hunter) | `pets/bug-hunter` |
+| [Bug Searcher](pets/bug-searcher) | Cute bug-finding detective with a magnifying glass. | [<img src="pets/bug-searcher/preview/idle.webp" alt="Bug Searcher idle animation" width="96">](pets/bug-searcher) | `pets/bug-searcher` |
+| [Rubber Duck 2.0](pets/rubber-duck-2-0) | Debugging duck upgraded into an AI coding buddy. | [<img src="pets/rubber-duck-2-0/preview/idle.webp" alt="Rubber Duck 2.0 idle animation" width="96">](pets/rubber-duck-2-0) | `pets/rubber-duck-2-0` |
+| [Token Vampire](pets/token-vampire) | Smug little bat drinking coding limits like token juice. | [<img src="pets/token-vampire/preview/idle.webp" alt="Token Vampire idle animation" width="96">](pets/token-vampire) | `pets/token-vampire` |
+| [Ladybug Dev](pets/ladybug-dev) | Tiny coding ladybug with terminal-marked spots. | [<img src="pets/ladybug-dev/preview/idle.webp" alt="Ladybug Dev idle animation" width="96">](pets/ladybug-dev) | `pets/ladybug-dev` |
 
 Click any pet name or preview to open its folder, full animation catalog, `pet.json`, and `spritesheet.webp`.
 
@@ -67,13 +67,13 @@ Each pet folder has a full GitHub preview catalog. Newer pets include all nine C
 
 | Pet | Idle | Running | Review | Full catalog |
 | --- | --- | --- | --- | --- |
-| Terminal Ghost | [<img src="pets/terminal-ghost/preview/idle.gif" alt="Terminal Ghost idle animation" width="88">](pets/terminal-ghost) | [<img src="pets/terminal-ghost/preview/running.gif" alt="Terminal Ghost running animation" width="88">](pets/terminal-ghost) | [<img src="pets/terminal-ghost/preview/review.gif" alt="Terminal Ghost review animation" width="88">](pets/terminal-ghost) | [Open](pets/terminal-ghost) |
-| Review Owl | [<img src="pets/review-owl/preview/idle.gif" alt="Review Owl idle animation" width="88">](pets/review-owl) | [<img src="pets/review-owl/preview/running.gif" alt="Review Owl running animation" width="88">](pets/review-owl) | [<img src="pets/review-owl/preview/review.gif" alt="Review Owl review animation" width="88">](pets/review-owl) | [Open](pets/review-owl) |
-| Bug Hunter | [<img src="pets/bug-hunter/preview/idle.gif" alt="Bug Hunter idle animation" width="88">](pets/bug-hunter) | [<img src="pets/bug-hunter/preview/running.gif" alt="Bug Hunter running animation" width="88">](pets/bug-hunter) | [<img src="pets/bug-hunter/preview/review.gif" alt="Bug Hunter review animation" width="88">](pets/bug-hunter) | [Open](pets/bug-hunter) |
-| Bug Searcher | [<img src="pets/bug-searcher/preview/idle.gif" alt="Bug Searcher idle animation" width="88">](pets/bug-searcher) | [<img src="pets/bug-searcher/preview/running.gif" alt="Bug Searcher running animation" width="88">](pets/bug-searcher) | [<img src="pets/bug-searcher/preview/review.gif" alt="Bug Searcher review animation" width="88">](pets/bug-searcher) | [Open](pets/bug-searcher) |
-| Rubber Duck 2.0 | [<img src="pets/rubber-duck-2-0/preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="88">](pets/rubber-duck-2-0) | [<img src="pets/rubber-duck-2-0/preview/running.gif" alt="Rubber Duck 2.0 running animation" width="88">](pets/rubber-duck-2-0) | [<img src="pets/rubber-duck-2-0/preview/review.gif" alt="Rubber Duck 2.0 review animation" width="88">](pets/rubber-duck-2-0) | [Open](pets/rubber-duck-2-0) |
-| Token Vampire | [<img src="pets/token-vampire/preview/idle.gif" alt="Token Vampire idle animation" width="88">](pets/token-vampire) | [<img src="pets/token-vampire/preview/running.gif" alt="Token Vampire running animation" width="88">](pets/token-vampire) | [<img src="pets/token-vampire/preview/review.gif" alt="Token Vampire review animation" width="88">](pets/token-vampire) | [Open](pets/token-vampire) |
-| Ladybug Dev | [<img src="pets/ladybug-dev/preview/idle.gif" alt="Ladybug Dev idle animation" width="88">](pets/ladybug-dev) | [<img src="pets/ladybug-dev/preview/running.gif" alt="Ladybug Dev running animation" width="88">](pets/ladybug-dev) | [<img src="pets/ladybug-dev/preview/review.gif" alt="Ladybug Dev review animation" width="88">](pets/ladybug-dev) | [Open](pets/ladybug-dev) |
+| Terminal Ghost | [<img src="pets/terminal-ghost/preview/idle.webp" alt="Terminal Ghost idle animation" width="88">](pets/terminal-ghost) | [<img src="pets/terminal-ghost/preview/running.webp" alt="Terminal Ghost running animation" width="88">](pets/terminal-ghost) | [<img src="pets/terminal-ghost/preview/review.webp" alt="Terminal Ghost review animation" width="88">](pets/terminal-ghost) | [Open](pets/terminal-ghost) |
+| Review Owl | [<img src="pets/review-owl/preview/idle.webp" alt="Review Owl idle animation" width="88">](pets/review-owl) | [<img src="pets/review-owl/preview/running.webp" alt="Review Owl running animation" width="88">](pets/review-owl) | [<img src="pets/review-owl/preview/review.webp" alt="Review Owl review animation" width="88">](pets/review-owl) | [Open](pets/review-owl) |
+| Bug Hunter | [<img src="pets/bug-hunter/preview/idle.webp" alt="Bug Hunter idle animation" width="88">](pets/bug-hunter) | [<img src="pets/bug-hunter/preview/running.webp" alt="Bug Hunter running animation" width="88">](pets/bug-hunter) | [<img src="pets/bug-hunter/preview/review.webp" alt="Bug Hunter review animation" width="88">](pets/bug-hunter) | [Open](pets/bug-hunter) |
+| Bug Searcher | [<img src="pets/bug-searcher/preview/idle.webp" alt="Bug Searcher idle animation" width="88">](pets/bug-searcher) | [<img src="pets/bug-searcher/preview/running.webp" alt="Bug Searcher running animation" width="88">](pets/bug-searcher) | [<img src="pets/bug-searcher/preview/review.webp" alt="Bug Searcher review animation" width="88">](pets/bug-searcher) | [Open](pets/bug-searcher) |
+| Rubber Duck 2.0 | [<img src="pets/rubber-duck-2-0/preview/idle.webp" alt="Rubber Duck 2.0 idle animation" width="88">](pets/rubber-duck-2-0) | [<img src="pets/rubber-duck-2-0/preview/running.webp" alt="Rubber Duck 2.0 running animation" width="88">](pets/rubber-duck-2-0) | [<img src="pets/rubber-duck-2-0/preview/review.webp" alt="Rubber Duck 2.0 review animation" width="88">](pets/rubber-duck-2-0) | [Open](pets/rubber-duck-2-0) |
+| Token Vampire | [<img src="pets/token-vampire/preview/idle.webp" alt="Token Vampire idle animation" width="88">](pets/token-vampire) | [<img src="pets/token-vampire/preview/running.webp" alt="Token Vampire running animation" width="88">](pets/token-vampire) | [<img src="pets/token-vampire/preview/review.webp" alt="Token Vampire review animation" width="88">](pets/token-vampire) | [Open](pets/token-vampire) |
+| Ladybug Dev | [<img src="pets/ladybug-dev/preview/idle.webp" alt="Ladybug Dev idle animation" width="88">](pets/ladybug-dev) | [<img src="pets/ladybug-dev/preview/running.webp" alt="Ladybug Dev running animation" width="88">](pets/ladybug-dev) | [<img src="pets/ladybug-dev/preview/review.webp" alt="Ladybug Dev review animation" width="88">](pets/ladybug-dev) | [Open](pets/ladybug-dev) |
 
 ## Why This Exists
 

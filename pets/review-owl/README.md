@@ -2,15 +2,15 @@
 
 Calm code-review owl with tiny glasses and a miniature PR checklist.
 
-![Review Owl idle animation](preview/idle.gif)
+![Review Owl idle animation](preview/idle.webp)
 
 ## Animation Catalog
 
 | Idle | Running | Waiting | Review |
 | --- | --- | --- | --- |
-| <img src="preview/idle.gif" alt="Review Owl idle animation" width="112"> | <img src="preview/running.gif" alt="Review Owl running animation" width="112"> | <img src="preview/waiting.gif" alt="Review Owl waiting animation" width="112"> | <img src="preview/review.gif" alt="Review Owl review animation" width="112"> |
+| <img src="preview/idle.webp" alt="Review Owl idle animation" width="112"> | <img src="preview/running.webp" alt="Review Owl running animation" width="112"> | <img src="preview/waiting.webp" alt="Review Owl waiting animation" width="112"> | <img src="preview/review.webp" alt="Review Owl review animation" width="112"> |
 
-The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The GIFs are only human-friendly previews for GitHub.
+The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The WebP files are human-friendly previews for GitHub.
 
 ## Install
 

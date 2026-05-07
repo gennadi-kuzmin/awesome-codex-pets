@@ -2,23 +2,23 @@
 
 A debugging duck upgraded into a suspiciously helpful AI coding assistant.
 
-![Rubber Duck 2.0 idle animation](preview/idle.gif)
+![Rubber Duck 2.0 idle animation](preview/idle.webp)
 
 ## Animation Catalog
 
 | Idle | Running Right | Running Left |
 | --- | --- | --- |
-| <img src="preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="112"> | <img src="preview/running-right.gif" alt="Rubber Duck 2.0 running right animation" width="112"> | <img src="preview/running-left.gif" alt="Rubber Duck 2.0 running left animation" width="112"> |
+| <img src="preview/idle.webp" alt="Rubber Duck 2.0 idle animation" width="112"> | <img src="preview/running-right.webp" alt="Rubber Duck 2.0 running right animation" width="112"> | <img src="preview/running-left.webp" alt="Rubber Duck 2.0 running left animation" width="112"> |
 
 | Waving | Jumping | Failed |
 | --- | --- | --- |
-| <img src="preview/waving.gif" alt="Rubber Duck 2.0 waving animation" width="112"> | <img src="preview/jumping.gif" alt="Rubber Duck 2.0 jumping animation" width="112"> | <img src="preview/failed.gif" alt="Rubber Duck 2.0 failed animation" width="112"> |
+| <img src="preview/waving.webp" alt="Rubber Duck 2.0 waving animation" width="112"> | <img src="preview/jumping.webp" alt="Rubber Duck 2.0 jumping animation" width="112"> | <img src="preview/failed.webp" alt="Rubber Duck 2.0 failed animation" width="112"> |
 
 | Waiting | Running | Review |
 | --- | --- | --- |
-| <img src="preview/waiting.gif" alt="Rubber Duck 2.0 waiting animation" width="112"> | <img src="preview/running.gif" alt="Rubber Duck 2.0 running animation" width="112"> | <img src="preview/review.gif" alt="Rubber Duck 2.0 review animation" width="112"> |
+| <img src="preview/waiting.webp" alt="Rubber Duck 2.0 waiting animation" width="112"> | <img src="preview/running.webp" alt="Rubber Duck 2.0 running animation" width="112"> | <img src="preview/review.webp" alt="Rubber Duck 2.0 review animation" width="112"> |
 
-The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The GIFs are only human-friendly previews for GitHub.
+The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The WebP files are human-friendly previews for GitHub.
 
 ## Install
 

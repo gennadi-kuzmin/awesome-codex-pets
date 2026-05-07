@@ -2,23 +2,23 @@
 
 A smug little vampire bat who drinks coding limits like cyan token juice.
 
-![Token Vampire idle animation](preview/idle.gif)
+![Token Vampire idle animation](preview/idle.webp)
 
 ## Animation Catalog
 
 | Idle | Running Right | Running Left |
 | --- | --- | --- |
-| <img src="preview/idle.gif" alt="Token Vampire idle animation" width="112"> | <img src="preview/running-right.gif" alt="Token Vampire running right animation" width="112"> | <img src="preview/running-left.gif" alt="Token Vampire running left animation" width="112"> |
+| <img src="preview/idle.webp" alt="Token Vampire idle animation" width="112"> | <img src="preview/running-right.webp" alt="Token Vampire running right animation" width="112"> | <img src="preview/running-left.webp" alt="Token Vampire running left animation" width="112"> |
 
 | Waving | Jumping | Failed |
 | --- | --- | --- |
-| <img src="preview/waving.gif" alt="Token Vampire waving animation" width="112"> | <img src="preview/jumping.gif" alt="Token Vampire jumping animation" width="112"> | <img src="preview/failed.gif" alt="Token Vampire failed animation" width="112"> |
+| <img src="preview/waving.webp" alt="Token Vampire waving animation" width="112"> | <img src="preview/jumping.webp" alt="Token Vampire jumping animation" width="112"> | <img src="preview/failed.webp" alt="Token Vampire failed animation" width="112"> |
 
 | Waiting | Running | Review |
 | --- | --- | --- |
-| <img src="preview/waiting.gif" alt="Token Vampire waiting animation" width="112"> | <img src="preview/running.gif" alt="Token Vampire running animation" width="112"> | <img src="preview/review.gif" alt="Token Vampire review animation" width="112"> |
+| <img src="preview/waiting.webp" alt="Token Vampire waiting animation" width="112"> | <img src="preview/running.webp" alt="Token Vampire running animation" width="112"> | <img src="preview/review.webp" alt="Token Vampire review animation" width="112"> |
 
-The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The GIFs are only human-friendly previews for GitHub.
+The full Codex install asset is [`spritesheet.webp`](spritesheet.webp). The WebP files are human-friendly previews for GitHub.
 
 ## Install
 
