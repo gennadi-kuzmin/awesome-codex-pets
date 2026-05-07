@@ -4,7 +4,7 @@ A curated hub and installable pet pack for custom Codex `/pet` companions.
 
 Install original Codex pets, inspect the pet contract, and suggest the next tiny agent companion.
 
-> Five pets ready: **Terminal Ghost**, **Review Owl**, **Bug Hunter**, **Bug Searcher**, and **Rubber Duck 2.0**.
+> Six pets ready: **Terminal Ghost**, **Review Owl**, **Bug Hunter**, **Bug Searcher**, **Rubber Duck 2.0**, and **Token Vampire**.
 
 [![Terminal Ghost idle animation](pets/terminal-ghost/preview/idle.gif)](pets/terminal-ghost)
 
@@ -36,6 +36,7 @@ Codex pets are delightful, but the ecosystem is still young. This repo is a fast
 | [Bug Hunter](pets/bug-hunter) | [<img src="pets/bug-hunter/preview/idle.gif" alt="Bug Hunter idle animation" width="96">](pets/bug-hunter) | [`cp -R pets/bug-hunter ~/.codex/pets/`](pets/bug-hunter) | Installable |
 | [Bug Searcher](pets/bug-searcher) | [<img src="pets/bug-searcher/preview/idle.gif" alt="Bug Searcher idle animation" width="96">](pets/bug-searcher) | [`cp -R pets/bug-searcher ~/.codex/pets/`](pets/bug-searcher) | Installable |
 | [Rubber Duck 2.0](pets/rubber-duck-2-0) | [<img src="pets/rubber-duck-2-0/preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="96">](pets/rubber-duck-2-0) | [`cp -R pets/rubber-duck-2-0 ~/.codex/pets/`](pets/rubber-duck-2-0) | Installable |
+| [Token Vampire](pets/token-vampire) | [<img src="pets/token-vampire/preview/idle.gif" alt="Token Vampire idle animation" width="96">](pets/token-vampire) | [`cp -R pets/token-vampire ~/.codex/pets/`](pets/token-vampire) | Installable |
 
 Click a pet preview to open its folder, animation catalog, and install notes.
 
