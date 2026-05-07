@@ -1,21 +1,79 @@
 # Awesome Codex Pets
 
-A curated hub and installable pet pack for custom Codex `/pet` companions.
+A growing pack of original, installable Codex `/pet` companions with GitHub-friendly previews, clean install notes, and a documented pet contract.
 
-Install original Codex pets, inspect the pet contract, and suggest the next tiny agent companion.
+Pick a pet, copy one folder into `~/.codex/pets`, refresh Codex, and let a tiny agent companion live in your workspace.
 
 > Seven pets ready: **Terminal Ghost**, **Review Owl**, **Bug Hunter**, **Bug Searcher**, **Rubber Duck 2.0**, **Token Vampire**, and **Ladybug Dev**.
 
-[![Terminal Ghost idle animation](pets/terminal-ghost/preview/idle.gif)](pets/terminal-ghost)
+<table>
+  <tr>
+    <td align="center"><a href="pets/terminal-ghost"><img src="pets/terminal-ghost/preview/idle.gif" alt="Terminal Ghost idle animation" width="112"><br><strong>Terminal Ghost</strong></a></td>
+    <td align="center"><a href="pets/review-owl"><img src="pets/review-owl/preview/idle.gif" alt="Review Owl idle animation" width="112"><br><strong>Review Owl</strong></a></td>
+    <td align="center"><a href="pets/bug-hunter"><img src="pets/bug-hunter/preview/idle.gif" alt="Bug Hunter idle animation" width="112"><br><strong>Bug Hunter</strong></a></td>
+    <td align="center"><a href="pets/bug-searcher"><img src="pets/bug-searcher/preview/idle.gif" alt="Bug Searcher idle animation" width="112"><br><strong>Bug Searcher</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="pets/rubber-duck-2-0"><img src="pets/rubber-duck-2-0/preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="112"><br><strong>Rubber Duck 2.0</strong></a></td>
+    <td align="center"><a href="pets/token-vampire"><img src="pets/token-vampire/preview/idle.gif" alt="Token Vampire idle animation" width="112"><br><strong>Token Vampire</strong></a></td>
+    <td align="center"><a href="pets/ladybug-dev"><img src="pets/ladybug-dev/preview/idle.gif" alt="Ladybug Dev idle animation" width="112"><br><strong>Ladybug Dev</strong></a></td>
+    <td align="center"><a href="docs/submit-your-pet.md"><br><strong>Suggest the next pet</strong></a></td>
+  </tr>
+</table>
 
 ## Quick Install
 
+Clone the repo, then copy the pet you want into your Codex pets folder:
+
 ```bash
+git clone https://github.com/gennadi-kuzmin/awesome-codex-pets.git
+cd awesome-codex-pets
 mkdir -p ~/.codex/pets
 cp -R pets/terminal-ghost ~/.codex/pets/
 ```
 
-Then open Codex App, go to `Settings > Appearance > Pets`, refresh custom pets, select **Terminal Ghost**, and type `/pet`.
+Swap `terminal-ghost` for any folder name from [`pets`](pets):
+
+```bash
+cp -R pets/review-owl ~/.codex/pets/
+cp -R pets/bug-hunter ~/.codex/pets/
+cp -R pets/bug-searcher ~/.codex/pets/
+cp -R pets/rubber-duck-2-0 ~/.codex/pets/
+cp -R pets/token-vampire ~/.codex/pets/
+cp -R pets/ladybug-dev ~/.codex/pets/
+```
+
+Then open Codex App, go to `Settings > Appearance > Pets`, refresh custom pets, select your pet, and type `/pet`.
+
+See [`docs/install.md`](docs/install.md) for the full install guide.
+
+## Choose A Pet
+
+| Pet | Vibe | Preview | Install folder |
+| --- | --- | --- | --- |
+| [Terminal Ghost](pets/terminal-ghost) | Friendly CLI mascot with prompt-shaped eyes. | [<img src="pets/terminal-ghost/preview/idle.gif" alt="Terminal Ghost idle animation" width="96">](pets/terminal-ghost) | `pets/terminal-ghost` |
+| [Review Owl](pets/review-owl) | Calm reviewer for PRs and code review mode. | [<img src="pets/review-owl/preview/idle.gif" alt="Review Owl idle animation" width="96">](pets/review-owl) | `pets/review-owl` |
+| [Bug Hunter](pets/bug-hunter) | Tiny debugging detective. | [<img src="pets/bug-hunter/preview/idle.gif" alt="Bug Hunter idle animation" width="96">](pets/bug-hunter) | `pets/bug-hunter` |
+| [Bug Searcher](pets/bug-searcher) | Cute bug-finding detective with a magnifying glass. | [<img src="pets/bug-searcher/preview/idle.gif" alt="Bug Searcher idle animation" width="96">](pets/bug-searcher) | `pets/bug-searcher` |
+| [Rubber Duck 2.0](pets/rubber-duck-2-0) | Debugging duck upgraded into an AI coding buddy. | [<img src="pets/rubber-duck-2-0/preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="96">](pets/rubber-duck-2-0) | `pets/rubber-duck-2-0` |
+| [Token Vampire](pets/token-vampire) | Smug little bat drinking coding limits like token juice. | [<img src="pets/token-vampire/preview/idle.gif" alt="Token Vampire idle animation" width="96">](pets/token-vampire) | `pets/token-vampire` |
+| [Ladybug Dev](pets/ladybug-dev) | Tiny coding ladybug with terminal-marked spots. | [<img src="pets/ladybug-dev/preview/idle.gif" alt="Ladybug Dev idle animation" width="96">](pets/ladybug-dev) | `pets/ladybug-dev` |
+
+Click any pet name or preview to open its folder, full animation catalog, `pet.json`, and `spritesheet.webp`.
+
+## Animation Catalog
+
+Each pet folder has a full GitHub preview catalog. Newer pets include all nine Codex animation states.
+
+| Pet | Idle | Running | Review | Full catalog |
+| --- | --- | --- | --- | --- |
+| Terminal Ghost | [<img src="pets/terminal-ghost/preview/idle.gif" alt="Terminal Ghost idle animation" width="88">](pets/terminal-ghost) | [<img src="pets/terminal-ghost/preview/running.gif" alt="Terminal Ghost running animation" width="88">](pets/terminal-ghost) | [<img src="pets/terminal-ghost/preview/review.gif" alt="Terminal Ghost review animation" width="88">](pets/terminal-ghost) | [Open](pets/terminal-ghost) |
+| Review Owl | [<img src="pets/review-owl/preview/idle.gif" alt="Review Owl idle animation" width="88">](pets/review-owl) | [<img src="pets/review-owl/preview/running.gif" alt="Review Owl running animation" width="88">](pets/review-owl) | [<img src="pets/review-owl/preview/review.gif" alt="Review Owl review animation" width="88">](pets/review-owl) | [Open](pets/review-owl) |
+| Bug Hunter | [<img src="pets/bug-hunter/preview/idle.gif" alt="Bug Hunter idle animation" width="88">](pets/bug-hunter) | [<img src="pets/bug-hunter/preview/running.gif" alt="Bug Hunter running animation" width="88">](pets/bug-hunter) | [<img src="pets/bug-hunter/preview/review.gif" alt="Bug Hunter review animation" width="88">](pets/bug-hunter) | [Open](pets/bug-hunter) |
+| Bug Searcher | [<img src="pets/bug-searcher/preview/idle.gif" alt="Bug Searcher idle animation" width="88">](pets/bug-searcher) | [<img src="pets/bug-searcher/preview/running.gif" alt="Bug Searcher running animation" width="88">](pets/bug-searcher) | [<img src="pets/bug-searcher/preview/review.gif" alt="Bug Searcher review animation" width="88">](pets/bug-searcher) | [Open](pets/bug-searcher) |
+| Rubber Duck 2.0 | [<img src="pets/rubber-duck-2-0/preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="88">](pets/rubber-duck-2-0) | [<img src="pets/rubber-duck-2-0/preview/running.gif" alt="Rubber Duck 2.0 running animation" width="88">](pets/rubber-duck-2-0) | [<img src="pets/rubber-duck-2-0/preview/review.gif" alt="Rubber Duck 2.0 review animation" width="88">](pets/rubber-duck-2-0) | [Open](pets/rubber-duck-2-0) |
+| Token Vampire | [<img src="pets/token-vampire/preview/idle.gif" alt="Token Vampire idle animation" width="88">](pets/token-vampire) | [<img src="pets/token-vampire/preview/running.gif" alt="Token Vampire running animation" width="88">](pets/token-vampire) | [<img src="pets/token-vampire/preview/review.gif" alt="Token Vampire review animation" width="88">](pets/token-vampire) | [Open](pets/token-vampire) |
+| Ladybug Dev | [<img src="pets/ladybug-dev/preview/idle.gif" alt="Ladybug Dev idle animation" width="88">](pets/ladybug-dev) | [<img src="pets/ladybug-dev/preview/running.gif" alt="Ladybug Dev running animation" width="88">](pets/ladybug-dev) | [<img src="pets/ladybug-dev/preview/review.gif" alt="Ladybug Dev review animation" width="88">](pets/ladybug-dev) | [Open](pets/ladybug-dev) |
 
 ## Why This Exists
 
@@ -27,21 +85,7 @@ Codex pets are delightful, but the ecosystem is still young. This repo is a fast
 - links to useful pet directories and examples
 - community pet ideas
 
-## Pets
-
-| Pet | Preview | Install | Status |
-| --- | --- | --- | --- |
-| [Terminal Ghost](pets/terminal-ghost) | [<img src="pets/terminal-ghost/preview/idle.gif" alt="Terminal Ghost idle animation" width="96">](pets/terminal-ghost) | [`cp -R pets/terminal-ghost ~/.codex/pets/`](pets/terminal-ghost) | Installable |
-| [Review Owl](pets/review-owl) | [<img src="pets/review-owl/preview/idle.gif" alt="Review Owl idle animation" width="96">](pets/review-owl) | [`cp -R pets/review-owl ~/.codex/pets/`](pets/review-owl) | Installable |
-| [Bug Hunter](pets/bug-hunter) | [<img src="pets/bug-hunter/preview/idle.gif" alt="Bug Hunter idle animation" width="96">](pets/bug-hunter) | [`cp -R pets/bug-hunter ~/.codex/pets/`](pets/bug-hunter) | Installable |
-| [Bug Searcher](pets/bug-searcher) | [<img src="pets/bug-searcher/preview/idle.gif" alt="Bug Searcher idle animation" width="96">](pets/bug-searcher) | [`cp -R pets/bug-searcher ~/.codex/pets/`](pets/bug-searcher) | Installable |
-| [Rubber Duck 2.0](pets/rubber-duck-2-0) | [<img src="pets/rubber-duck-2-0/preview/idle.gif" alt="Rubber Duck 2.0 idle animation" width="96">](pets/rubber-duck-2-0) | [`cp -R pets/rubber-duck-2-0 ~/.codex/pets/`](pets/rubber-duck-2-0) | Installable |
-| [Token Vampire](pets/token-vampire) | [<img src="pets/token-vampire/preview/idle.gif" alt="Token Vampire idle animation" width="96">](pets/token-vampire) | [`cp -R pets/token-vampire ~/.codex/pets/`](pets/token-vampire) | Installable |
-| [Ladybug Dev](pets/ladybug-dev) | [<img src="pets/ladybug-dev/preview/idle.gif" alt="Ladybug Dev idle animation" width="96">](pets/ladybug-dev) | [`cp -R pets/ladybug-dev ~/.codex/pets/`](pets/ladybug-dev) | Installable |
-
-Click a pet preview to open its folder, animation catalog, and install notes.
-
-## Install
+## Pet Contract
 
 Codex custom pets live in your local Codex home:
 
@@ -51,24 +95,11 @@ Codex custom pets live in your local Codex home:
 └── spritesheet.webp
 ```
 
-Manual install:
-
-1. Pick a pet from [`pets`](pets).
-2. Copy its folder into `~/.codex/pets/`.
-3. Open Codex App.
-4. Go to `Settings > Appearance > Pets`.
-5. Refresh custom pets and choose your pet.
-6. Type `/pet` to wake it up.
-
-See [`docs/install.md`](docs/install.md) for a fuller install guide.
-
 See [`docs/pet-contract.md`](docs/pet-contract.md) for the exact `pet.json` and spritesheet contract.
 
 ## Star And Suggest
 
 Star this repo if you want more Codex pets. Open an issue to suggest the next pet.
-
-## Create Or Suggest A Pet
 
 Have a pet idea? Open an issue with:
 
